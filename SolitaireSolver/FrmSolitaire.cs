@@ -3,7 +3,7 @@
 ===============================
  CLASS WRITTEN BY: Rasmus Søborg (S185119)
  CREATE DATE: 06/06/2020
- PURPOSE: This model represents a simple playing card in the solitaire game
+ PURPOSE: This form handles program initizilation and connecting webcamera to graphicsbuffer and handles the detection thread on recieved camera bitmap 
  SPECIAL NOTES:
 ===============================
 */
